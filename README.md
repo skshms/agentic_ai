@@ -1,1 +1,1 @@
-# Repository for opinionated ms files for AI coding
+# Repository for opinionated md files for AI coding
